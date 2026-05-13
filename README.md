@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Yukhym 👋
 
-<!--
-**savefimvasil/savefimvasil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Front-End Engineer focused on building scalable and accessible web applications.
 
-Here are some ideas to get you started:
+- 8+ years in software development  
+- Vue.js, React, TypeScript
+- GovTech, EdTech
+- HealthTech & NHS-related products  
+- Interested in frontend architecture, accessibility and AI-assisted engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+
+https://skillicons.dev/icons?i=ts,js,vue,react,nodejs,nestjs,tailwind,vite,nuxt,nextjs,pinia,redux,postgres,mongodb,docker
+
+## Currently
+Building modern web applications and exploring AI-powered developer workflows.
