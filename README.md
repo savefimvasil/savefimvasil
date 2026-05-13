@@ -10,7 +10,8 @@ Senior Front-End Engineer focused on building scalable and accessible web applic
 
 ## Tech
 
-https://skillicons.dev/icons?i=ts,js,vue,react,nodejs,nestjs,tailwind,vite,nuxt,nextjs,pinia,redux,postgres,mongodb,docker
+[![My Skills](https://skillicons.dev/icons?i=ts,js,vue,react,nodejs,nestjs,tailwind,vite,nuxt,nextjs,pinia,redux,postgres,mongodb,docker)](https://skillicons.dev)
+
 
 ## Currently
 Building modern web applications and exploring AI-powered developer workflows.
