@@ -3,7 +3,7 @@
 Senior Front-End Engineer focused on building scalable and accessible web applications.
 
 - 8+ years in software development  
-- Vue.js, React, TypeScript
+- Vue.js, React,  Node.js, TypeScript
 - GovTech, EdTech
 - HealthTech & NHS-related products  
 - Interested in frontend architecture, accessibility and AI-assisted engineering
