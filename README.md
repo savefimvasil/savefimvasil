@@ -6,7 +6,7 @@ Senior Front-End Engineer focused on building scalable and accessible web applic
 - Vue.js, React,  Node.js, TypeScript
 - GovTech, EdTech
 - HealthTech & NHS-related products  
-- Interested in frontend architecture, accessibility and AI-assisted engineering
+- Interested in software architecture, product design, accessibility and AI-assisted engineering
 
 ## Tech
 
